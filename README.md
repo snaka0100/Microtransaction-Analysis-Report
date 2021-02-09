@@ -2,7 +2,7 @@
 
 ## Background
 
-HW assignment given to me create python scripts to retrieve specific data for in-game store for an independent gaming company. 
+HW assignment given to me to create python scripts to retrieve specific data for in-game store for an independent gaming company. 
 
 Used panda library and the Jupyter Notebook.
 
